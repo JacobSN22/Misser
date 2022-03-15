@@ -1,0 +1,8 @@
+nav a:hover{
+    background-color: grey;
+}
+
+.nav-main li{
+    display: inline-block;
+    text-align: left;
+}

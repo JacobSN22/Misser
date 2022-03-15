@@ -24,3 +24,10 @@ footer{
     margin-top: 1em;    
     padding-top: 1em;
 }
+
+/* Side 2 */
+
+.nav-second li{
+    display: inline-block;
+    text-align: center;
+}

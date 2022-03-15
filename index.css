@@ -13,3 +13,8 @@ img:first-of-type{
     margin-right: auto;
     width: 50%;
 }
+
+h2{
+    text-align: center;
+    margin-top: 0;
+}
